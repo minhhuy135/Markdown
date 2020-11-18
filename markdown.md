@@ -33,15 +33,17 @@ echo ("highlight code");
 ``` 
 [tên gán cho đường link](đường link)
 ```
-[link facebook](https://www.facebook.com/ngockma1999)  
+[link facebook](https://www.facebook.com/thieu.banga/)  
  
- - Ta cũng có thể để link trực tiếp : <https://www.facebook.com/ngockma1999>
+ - Ta cũng có thể để link trực tiếp : <https://www.facebook.com/thieu.banga/>
   
 # 5. Chèn ảnh 
 ```  
 ![Tên ảnh](link ảnh "phần mô tả khi trỏ chuột vào ảnh.")
 ```
 ![Hoa sen](https://2.bp.blogspot.com/-0x-NVVIS7eU/WfHt2sryY2I/AAAAAAAAAHE/lZwCMYgQ068LeYd2XKYv3AtmFFrpzOdLgCLcBGAs/s400/hoa-sen%2B%25287%2529.jpg)
+
+<img src=https://image.prntscr.com/image/kWoON1uqT2mhlegZzQ58ww.png>
 # 6. Trích dẫn 
 ```  
 >Đoạn trích dẫn  
