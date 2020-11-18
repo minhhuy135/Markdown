@@ -60,3 +60,17 @@ echo ("highlight code");
 | ----- |-----|------|-----|
 | dòng 1  | 1  | 2 | 3 |
 | dòng 2  |  4 | 5 | 6 |  
+# 8. Liệt kê danh sách 
+```  
+1.Danh sách 1
+2.Danh sách 2
+hoặc
+* Danh sách 1 
+* Danh sách 2   
+```
+
+1. Danh sách 1
+2. Danh sách 2 
+hoặc 
+* Danh sách 1  
+* Danh sách 2 
