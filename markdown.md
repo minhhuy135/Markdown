@@ -41,9 +41,8 @@ echo ("highlight code");
 ```  
 ![Tên ảnh](link ảnh "phần mô tả khi trỏ chuột vào ảnh.")
 ```
-![Hoa sen](https://2.bp.blogspot.com/-0x-NVVIS7eU/WfHt2sryY2I/AAAAAAAAAHE/lZwCMYgQ068LeYd2XKYv3AtmFFrpzOdLgCLcBGAs/s400/hoa-sen%2B%25287%2529.jpg)
+![Hoa sen](https://image.prntscr.com/image/kWoON1uqT2mhlegZzQ58ww.png)
 
-<img src=https://image.prntscr.com/image/kWoON1uqT2mhlegZzQ58ww.png>
 # 6. Trích dẫn 
 ```  
 >Đoạn trích dẫn  
